@@ -1,3 +1,4 @@
+# MADE IN COLLABORATION WITH LSSGD
 # Content Helper Community — Website
 
 Gold liquid-chrome cinematic hero (Three.js) + animated content sections.
