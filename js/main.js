@@ -158,8 +158,10 @@ const FALLBACK_CREATORS=[
   {name:'ChickenMan',           subs:'372K',  url:'https://www.youtube.com/@chickenmanrblx'},
   {name:'BabyBacon',            subs:'259K',  url:'https://www.youtube.com/@babybaconyt'},
   {name:'Jairai',               subs:'113K',  url:'https://www.youtube.com/@jairaiyt'},
-  {name:'Xory Studios',         subs:'38.5K', url:'https://www.youtube.com/@xorystudios'},
-  {name:'Stanky Boi',           subs:'18.1K', url:'https://www.youtube.com/@stankyboikins'},
+  {name:'Zeus Shorts',          subs:'—', url:'https://www.youtube.com/channel/UCfIRqlAPpRJk6a6TLxfoquA'},
+  {name:'koopekool',            subs:'—', url:'https://www.youtube.com/@koopekool'},
+  {name:'koopekul',             subs:'—', url:'https://www.youtube.com/@koopekul'},
+  {name:'allstar',              subs:'—', url:'https://www.youtube.com/channel/UC15FhQd0x8dYPkFsH0bTsMg'},
 ];
 const initials=n=>{const w=n.trim().split(/\s+/);return (w.length>1?w[0][0]+w[1][0]:n.slice(0,2)).toUpperCase();};
 const slug=n=>n.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');

@@ -16,8 +16,10 @@ const CHANNELS = [
   {name:"Crewzi", url:'https://www.youtube.com/@crewzi', id:'UCYmf6pA09FXlwxfjOtmTBDQ'},
   {name:"ChickenMan", url:'https://www.youtube.com/@chickenmanrblx', id:'UChgI3A_mIGyVTYQwclT7vSA'},
   {name:"Jairai", url:'https://www.youtube.com/@jairaiyt', id:'UCLIbT5SqUk50iGijwJeZg2Q'},
-  {name:"Xory Studios", url:'https://www.youtube.com/@xorystudios', id:'UCo0mDxXUcYE8Gd5uFzezosQ'},
-  {name:"Stanky Boi", url:'https://www.youtube.com/@stankyboikins', id:'UC12LBE4ZcUHC3NbU8H5rQCA'},
+  {name:"Zeus Shorts", url:'https://www.youtube.com/channel/UCfIRqlAPpRJk6a6TLxfoquA', id:'UCfIRqlAPpRJk6a6TLxfoquA'},
+  {name:"allstar", url:'https://www.youtube.com/channel/UC15FhQd0x8dYPkFsH0bTsMg', id:'UC15FhQd0x8dYPkFsH0bTsMg'},
+  {name:"koopekool", url:'https://www.youtube.com/@koopekool', handle:'koopekool'},
+  {name:"koopekul", url:'https://www.youtube.com/@koopekul', handle:'koopekul'},
   {name:"BabyBacon", url:'https://www.youtube.com/@babybaconyt', handle:'babybaconyt'},
 ];
 
